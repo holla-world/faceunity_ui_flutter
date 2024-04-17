@@ -180,9 +180,11 @@ packages:
   faceunity_plugin:
     dependency: transitive
     description:
-      path: "../faceunity_plugin"
-      relative: true
-    source: path
+      path: "."
+      ref: main
+      resolved-ref: "6c4ecbea1c2e5782445e3c3589126bdcf41ada84"
+      url: "https://github.com/holla-world/faceunity_plugin.git"
+    source: git
     version: "0.0.1"
   faceunity_ui_flutter:
     dependency: "direct main"

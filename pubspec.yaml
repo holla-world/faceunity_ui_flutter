@@ -21,7 +21,9 @@ dependencies:
   fluttertoast: 8.1.0
   # 插件
   faceunity_plugin:
-    path: faceunity_plugin
+    git:
+      url: https://github.com/holla-world/faceunity_plugin.git
+      ref: main
 
 dev_dependencies:
   flutter_test:
